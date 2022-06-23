@@ -28,7 +28,7 @@ define( 'DB_NAME', 'c38vg40iz08p7hwu' );
 define( 'DB_USER', 'z2dlsq394tnysn4o' );
 
 /** Mot de passe de la base de données MySQL. */
-define( 'DB_PASSWORD', 'as921vrpte9y1taj' );
+define( 'DB_PASSWORD', 'xj0c28y4ue8gm29d' );
 
 /** Adresse de l’hébergement MySQL. */
 define( 'DB_HOST', 'i0rgccmrx3at3wv3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' );
